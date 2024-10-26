@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css'
 import { Form } from './component/Form'
 import { Header } from './component/Header'
-import { Resultado } from './component/resultado';
+import { Resultado } from './component/Resultado';
 import { Mensaje } from './component/Mensaje';
 
 function App() {

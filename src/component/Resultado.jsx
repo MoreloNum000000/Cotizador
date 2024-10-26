@@ -1,5 +1,5 @@
 import React from 'react'
-import { moneyFormat } from '../../../Subcripciones/src/helpers'
+import { moneyFormat } from '../component/helpers'
 
 export const Resultado = ({total, cantidad, plazo}) => {
   return (
